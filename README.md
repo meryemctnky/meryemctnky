@@ -3,28 +3,8 @@ Hi there, I'm Meryem Çetinkaya</a> 👋
 </h2>
 
 <h3 align="center">
-I'm  Jr. Front-End Developer 💻
+I'm  Frontend Developer 💻
 </h3>
-
-<br/>
-
-```javascript
-const MERYEMC = {
-  pronouns: 'she' || 'her',
-  code: {
-           current: ['JavaScript','HTML', 'CSS', 'React'],
-           past: ['Visual Basic', 'C#'],
-         },
-  tools: {
-           frameworks: ['React','Bootstrap', 'SASS'],
-          },
-  comingSoon: ['Next.js', 'TypeScript'],    
-
-}
-```
-
-<br/>
-
 
 ### 🤝 Connect with me:
 
